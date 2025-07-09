@@ -1,0 +1,14 @@
+streamlit
+plotly
+pandas
+numpy
+yt-dlp
+openai
+pydub
+textblob
+spacy
+pyannote.audio
+torch          # required by pyannote.audio
+torchaudio     # often needed alongside torch for audio processing
+matplotlib
+seaborn
